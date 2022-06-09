@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.ibb.co/XWnXG7G/Asuna.jpg" alt="Asuna" width="500"/>
 </p>
-<h1 align="center">Akame - MD</h1>
+<h1 align="center">AsunaChan >//</h1>
 <p align="center">
   <a href="https://github.com/Abuzzpoet"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
