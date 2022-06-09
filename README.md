@@ -18,5 +18,5 @@
 
 ### Abuzzpoet Statistics
 
-[![Abuzzpoet GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abuzzpoetr&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![Abuzzpoet Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Abuzzpoetr&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+[![Abuzzpoet GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abuzzpoet&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![Abuzzpoet Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Abuzzpoet&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
