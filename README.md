@@ -3,7 +3,7 @@
 
 <h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
 <p align="center">
-  <img src="https://telegra.ph/file/de381b0caeb315a99c68a.mp4" />
+  <img src="https://tenor.com/bggFX.gif" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <a href="https://wa.me/6289636827082?text=Hi%20GuaAbuzz"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/rajif.armansyah.9"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/GuaAbuzz"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="tiktok.com/@guaabuzz"><img src="https://img.shields.io/badge/Tiktok-GuaAbuzx-ff0000?style=for-the-badge&logo=tiktok&logoColor=ff0000&link=tiktok.com/@guaabuzz" /><br>
+  <a href="tiktok.com/@guaabuzz"><img src="https://img.shields.io/badge/Tiktok-GuaAbuzz-010101?style=for-the-badge&logo=tiktok&logoColor=white&link=tiktok.com/@guaabuzz" /><br>
   <a name=GuaAbuzz&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://komarev.com/ghpvc/?username=Abuzzpoet&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Abuzzpoet&color=green&style=flat-square&label=Profile+View"></a>
 </p>
