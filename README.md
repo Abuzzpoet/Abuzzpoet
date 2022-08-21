@@ -1,39 +1,72 @@
+
+
+
+<h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
 <p align="center">
-<img src="https://i.ibb.co/XWnXG7G/Asuna.jpg" alt="Asuna" width="500"/>
+  <img src="https://telegra.ph/file/de381b0caeb315a99c68a.mp4" />
 </p>
-<h1 align="center">AsunaChan >_< </h1>
+
 <p align="center">
-  <a href="https://github.com/Abuzzpoet"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+
+- ♂️ My name is Rajif Armansyah
+- ⛩️ I am anime lovers !
+- 🤠 I am 16 years old ◉‿◉
 </p>
 
----------
+------
+### Connect with me ☎️
+<p align="center">
+  <a href="https://instagram.com/guaabuzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6289636827082?text=Hi%20GuaAbuzz"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.facebook.com/rajif.armansyah.9"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/GuaAbuzz"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="tiktok.com/@guaabuzz"><img src="https://img.shields.io/badge/Tiktok-GuaAbuzx-ff0000?style=for-the-badge&logo=tiktok&logoColor=ff0000&link=tiktok.com/@guaabuzz" /><br>
+  <a name=GuaAbuzz&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://komarev.com/ghpvc/?username=Abuzzpoet&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Abuzzpoet&color=green&style=flat-square&label=Profile+View"></a>
+</p>
 
-# Media Sosial Me
-[![TIKTOK](https://img.shields.io/badge/TikTok%20Owner-1b1e23?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@guaabuzz) 
+### My Waifu 😼
+<p align="center">
+  <img src="https://i.ibb.co/bvCb4Pr/Akame.jpg" />
+</p>
 
-[![INSTAGRAM](https://img.shields.io/badge/Instagram%20Owner-1b1e23?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guaabuzz/)
+------
 
-[![OWNER](https://img.shields.io/badge/WhatsApp%20Owner-1b1e23?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289636827082?text=Assalamualaikum+Bang) 
+### Spotify Playing 🎧
 
-[![WHATSAPP BOT](https://img.shields.io/badge/WhatsApp%20BOT-1b1e23?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282171978174?text=Menu) 
+<p align="center">
+  <a href="https://open.spotify.com/playlist/4wZjT9OeJ1rTVrbZUdipJ1?si=F6rFDlGfTnuziA4npj3V6g&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-1b1e23?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FGmVjFYJBjjGst62qwNKJB) 
+------
 
-## Donate Me
-* [`Saweria`](https://saweria.co/GuaAbuzz)
-* [`Gopay`](https://i.ibb.co/dGwfqRT/Gopay.jpg)
-* [`Dana`](https://i.ibb.co/MN3mmMB/Dana.jpg)
+### Github Stats 🚀
 
----------
+<p align="center"><a href="https://github.com/Abuzzpoet"><img src="https://github-readme-stats.vercel.app/api?username=Abuzzpoet&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Abuzzpoet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abuzzpoet&theme=radical&layout=compact"></a></p> 
 
-# My Project
-[![ASUNA](https://img.shields.io/badge/Asuna%20WhatsApp%20Bot-1b1e23?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abuzzpoet/Asuna)
+### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=Asuna&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=Akame&theme=nightowl)
 
-[![AKAME](https://img.shields.io/badge/Akame%20WhatsApp%20Bot-1b1e23?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abuzzpoet/Akame)
 
----------
+<p align="center">
+    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+</p>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-# Abuzzpoet Statistics
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Abuzzpoet)
 
-[![Abuzzpoet GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abuzzpoet&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![Abuzzpoet Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Abuzzpoet&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/Abuzzpoet)
+
+</details> 
