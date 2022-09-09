@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
 <p align="center">
   <img src="https://telegra.ph/file/3484ab3be151a947f591a.gif" />
@@ -46,7 +43,7 @@
 <p align="center"><a href="https://github.com/Abuzzpoet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abuzzpoet&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=Asuna&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=database&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=Akame&theme=nightowl)
 
 
