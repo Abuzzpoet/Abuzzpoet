@@ -5,7 +5,7 @@
 
 <p align="center">
 
-- ♂️ My name is Rajif Armansyah
+- ♂️ My name is GuaAbuzz
 - ⛩️ I am anime lovers !
 - 🤠 I am 16 years old ◉‿◉
 </p>
@@ -44,7 +44,7 @@
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=database&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=Akame&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=AkameV2.0&theme=nightowl)
 
 
 <p align="center">
