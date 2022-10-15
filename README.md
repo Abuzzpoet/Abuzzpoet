@@ -43,8 +43,8 @@
 <p align="center"><a href="https://github.com/Abuzzpoet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abuzzpoet&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=database&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=AkameV2.0&theme=nightowl)
+<a href="https://github.com/Abuzzpoet/databasee">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=databasee&theme=dark)</a>
+<a href="https://github.com/Abuzzpoet/AkameV2.0">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=AkameV2.0&theme=nightowl)</a>
 
 
 <p align="center">
