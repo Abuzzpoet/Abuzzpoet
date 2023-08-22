@@ -17,7 +17,7 @@
   <a href="https://wa.me/6289636827082?text=Hi%20GuaAbuzz"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/rajif.armansyah.9"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/GuaAbuzz"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="tiktok.com/@guaabuzz"><img src="https://img.shields.io/badge/Tiktok-GuaAbuzz-87CEFA?style=for-the-badge&logo=tiktok&logoColor=white&link=tiktok.com/@guaabuzz" /><br>
+  <a href="https://tiktok.com/@guaabuzz"><img src="https://img.shields.io/badge/Tiktok-GuaAbuzz-87CEFA?style=for-the-badge&logo=tiktok&logoColor=white&link=tiktok.com/@guaabuzz" /><br>
   <a name=GuaAbuzz&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://komarev.com/ghpvc/?username=Abuzzpoet&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Abuzzpoet&color=green&style=flat-square&label=Profile+View"></a>
 </p>
