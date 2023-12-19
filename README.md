@@ -7,15 +7,16 @@
 
 - ♂️ My name is GuaAbuzz
 - ⛩️ I am anime lovers !
-- 🤠 I am 16 years old ◉‿◉
+- 😅 I'm just a beginner
+- 🤠 I am 18 years old ◉‿◉
 </p>
 
 ------
 ### Connect with me ☎️
 <p align="center">
   <a href="https://instagram.com/guaabuzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6289636827082?text=Hi%20GuaAbuzz"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/rajif.armansyah.9"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://wa.me/6282171978174?text=Hi%20GuaAbuzz"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.facebook.com/rajif.armansyah"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/GuaAbuzz"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://tiktok.com/@guaabuzz"><img src="https://img.shields.io/badge/Tiktok-GuaAbuzz-87CEFA?style=for-the-badge&logo=tiktok&logoColor=white&link=tiktok.com/@guaabuzz" /><br>
   <a name=GuaAbuzz&label=VIEWS&style=flat-square&color=orange" />
@@ -32,7 +33,7 @@
 ### Spotify Playing 🎧
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/4wZjT9OeJ1rTVrbZUdipJ1?si=F6rFDlGfTnuziA4npj3V6g&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/playlist/4wZjT9OeJ1rTVrbZUdipJ1?si=Cy7HNjZxQfem8neY8_1k1g&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 ------
@@ -43,8 +44,9 @@
 <p align="center"><a href="https://github.com/Abuzzpoet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abuzzpoet&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-<a href="https://github.com/Abuzzpoet/databasee">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=databasee&theme=dark)</a>
 <a href="https://github.com/Abuzzpoet/AkameV2.0">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=AkameV2.0&theme=nightowl)</a>
+<a href="https://github.com/Abuzzpoet/MokoGo">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=MokoGo&theme=nightowl)</a>
+<a href="https://github.com/Abuzzpoet/databasee">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=databasee&theme=dark)</a>
 
 
 <p align="center">
