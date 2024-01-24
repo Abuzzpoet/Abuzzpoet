@@ -45,7 +45,6 @@
 
 ### Repo Stats 🔭
 <a href="https://github.com/Abuzzpoet/AkameV2.0">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=AkameV2.0&theme=nightowl)</a>
-<a href="https://github.com/Abuzzpoet/MokoGo">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=MokoGo&theme=nightowl)</a>
 <a href="https://github.com/Abuzzpoet/databasee">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Abuzzpoet&repo=databasee&theme=dark)</a>
 
 
